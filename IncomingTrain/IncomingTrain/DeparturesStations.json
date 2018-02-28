@@ -1,0 +1,64 @@
+ [
+  {
+  "name":"U Kottbusser Tor",
+  "products":{
+  "regional":0,
+  "subway":1,
+  "bus":1,
+  "ferry":0,
+  "tram":0,
+  "express":0,
+  "suburban":0
+  },
+  "location":{
+  "type":"location",
+  "longitude":13.417749,
+  "latitude":52.499044
+  },
+  "id":"900000013102",
+  "type":"station",
+  "distance":5
+  },
+  {
+  "name":"U Kottbusser Tor [Bus Reichenbg. Str.]",
+  "products":{
+  "regional":0,
+  "subway":0,
+  "bus":1,
+  "ferry":0,
+  "tram":0,
+  "express":0,
+  "suburban":0
+  },
+  "location":{
+  "type":"location",
+  "longitude":13.417039,
+  "latitude":52.499467
+  },
+  "id":"900000013173",
+  "type":"station",
+  "distance":81
+  },
+  {
+  "name":"U Kottbusser Tor [Bus Adalbertstr.]",
+  "products":{
+  "regional":0,
+  "subway":0,
+  "bus":1,
+  "ferry":0,
+  "tram":0,
+  "express":0,
+  "suburban":0
+  },
+  "location":{
+  "type":"location",
+  "longitude":13.418378,
+  "latitude":52.499898
+  },
+  "id":"900000013172",
+  "type":"station",
+  "distance":109
+  }
+  ]
+
+
