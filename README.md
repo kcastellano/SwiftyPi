@@ -25,7 +25,7 @@ Before we insert our SD Card, we need to give our Pi access to the Internet. To 
 
 ## Setting up Swift
 
-- Download the Swift 3.1.1 binaries by using [Swift Version Manager](https://github.com/kylef/swiftenv) or through the [Swift Build on ARM repo from @uraimo] (https://github.com/uraimo/buildSwiftOnARM)
+- Download the Swift 3.1.1 binaries by using [Swift Version Manager](https://github.com/kylef/swiftenv) or through the [Swift Build on ARM repo from @uraimo](https://github.com/uraimo/buildSwiftOnARM)
 - Check the Swift version using ```swift --version```
 
 ## Creating a Project
