@@ -6,7 +6,7 @@ Repo that contains the App, Server and Embedded code for my try! Swift Tokyo pre
 If you want to set up the Raspberri Pi without using any Monitor, we can do it on a Headless Mode:
 
 - Download Ubuntu from [Ubuntu Pi Flavor Maker](https://ubuntu-pi-flavour-maker.org/download/) on our Mac.
-- Flash an SD Card (32GB) with the Ubuntu Operative System using [Etcher] (https://etcher.io)
+- Flash an SD Card (32GB) with the Ubuntu Operative System using [Etcher](https://etcher.io)
 
 ## Mac and Pi connection
 
@@ -25,7 +25,7 @@ Before we insert our SD Card, we need to give our Pi access to the Internet. To 
 
 ## Setting up Swift
 
-- Download the [Swift 3.1.1] (https://github.com/apple/swift) binaries
+- Download the Swift 3.1.1 binaries by using [Swift Version Manager](https://github.com/kylef/swiftenv) or through the [Swift Build on ARM repo from @uraimo] (https://github.com/uraimo/buildSwiftOnARM)
 - Check the Swift version using ```swift --version```
 
 ## Creating a Project
